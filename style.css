@@ -15,6 +15,7 @@ body {
 header {
     background-image: url(images/header.gif);
     height: 230px;
+    border: none;
 }
 
 
